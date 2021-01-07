@@ -1,6 +1,6 @@
 ### Hi there, I'm Darlan 👋
 
-<a href="https://twitter.com/darlanhms1">
+<a href="https://twitter.com/darlanhms">
   <img align="left" alt="Darlan Hermes | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/darlanhms">
