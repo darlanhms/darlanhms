@@ -1,18 +1,6 @@
-### Hi there, I'm Darlan 👋
-
-<a href="https://twitter.com/darlanhms">
-  <img align="left" alt="Darlan Hermes | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/darlan-hermes-28b893190/">
-  <img align="left" alt="Darlan Hermes | Linkedin" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
-</a>
-
-<br/>
-<br/>
+### Hi there 👋
 
 Hi, I'm Darlan Hermes, a self-taught software developer focused on anything that has web development in it, currently my passion is TypeScript.
-
-<br/>
 
 **Languages and Tools:**  
 
