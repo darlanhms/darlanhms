@@ -3,9 +3,6 @@
 <a href="https://twitter.com/darlanhms">
   <img align="left" alt="Darlan Hermes | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/darlanhms">
-  <img align="left" alt="Darlan Hermes | Instagram" width="21px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" />
-</a>
 <a href="https://www.linkedin.com/in/darlan-hermes-28b893190/">
   <img align="left" alt="Darlan Hermes | Linkedin" width="21px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
