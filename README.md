@@ -11,5 +11,8 @@ Hi, I'm Darlan Hermes, a self-taught software developer focused on anything that
 
 <br/>
 
-![Darlan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darlanhms&layout=compact&theme=blueberry)
+![Darlan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darlanhms&layout=compact&theme=tokyonight)
+
+
+![Darlan's github stats](https://github-readme-stats.vercel.app/api?username=darlanhms&show_icons=true&theme=tokyonight&include_all_commits=true&layout=compact&count_private=true&hide_title=true)
 
